@@ -68,7 +68,7 @@ print(example_label.shape)
 # (360, 640)
 ```
 
-For any problems with the code, please feel free to contact me: homerhm.ni@gmail.com
+For any problems with the data and annotations, please feel free to contact me: homerhm.ni@gmail.com
 
 Acknowledgement
 -----

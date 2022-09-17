@@ -1,4 +1,4 @@
-# Youtube-Infant-Body-Parsing
+# Youtube-Infant-Body-Parsing Video Dataset
 The infant video dataset collected from Youtube with body parsing annotations. The data and annotations are released for research purposes only.
 
 <div align=center><img src="example.png" width="787px" height="392px"/></div>

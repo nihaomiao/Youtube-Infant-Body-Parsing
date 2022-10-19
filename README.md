@@ -1,5 +1,5 @@
 # Youtube-Infant-Body-Parsing Video Dataset
-The infant video dataset collected from Youtube with body parsing annotations. The data and annotations are released for research purposes only.
+The infant video dataset collected from Youtube with body parsing annotations, which is used in our Medical Image Analysis 2022 paper [Semi-supervised body parsing and pose estimation for enhancing infant general movement assessment](https://arxiv.org/abs/2210.08054). The data and annotations are released for research purposes only.
 
 <div align=center><img src="example.png" width="787px" height="392px"/></div>
 
@@ -68,6 +68,28 @@ print(example_label.shape)
 # (360, 640)
 ```
 
+If you find this dataset useful in your research, please consider citing our paper (collecting anatotations) and Chambers' paper (collecting videos):
+```
+@article{ni2022semi,
+  title={Semi-supervised body parsing and pose estimation for enhancing infant general movement assessment},
+  author={Ni, Haomiao and Xue, Yuan and Ma, Liya and Zhang, Qian and Li, Xiaoye and Huang, Xiaolei},
+  journal={Medical Image Analysis},
+  pages={102654},
+  year={2022},
+  publisher={Elsevier}
+}
+
+@article{chambers2020computer,
+  title={Computer vision to automatically assess infant neuromotor risk},
+  author={Chambers, Claire and Seethapathi, Nidhi and Saluja, Rachit and Loeb, Helen and Pierce, Samuel R and Bogen, Daniel K and Prosser, Laura and Johnson, Michelle J and Kording, Konrad P},
+  journal={IEEE Transactions on Neural Systems and Rehabilitation Engineering},
+  volume={28},
+  number={11},
+  pages={2431--2442},
+  year={2020},
+  publisher={IEEE}
+}
+```
 For any problems with the data and annotations, please feel free to open an issue or contact me: homerhm.ni@gmail.com
 
 Acknowledgement

@@ -68,6 +68,8 @@ print(example_label.shape)
 # (360, 640)
 ```
 
+Citing Youtube-Infant-Body-Parsing
+----
 If you find this dataset useful in your research, please consider citing our paper (collecting anatotations) and Chambers' paper (collecting videos):
 ```
 @article{ni2022semi,

@@ -1,5 +1,5 @@
 # Youtube-Infant-Body-Parsing Video Dataset
-The infant video dataset collected from Youtube with body parsing annotations, which is used in our Medical Image Analysis 2022 paper [Semi-supervised body parsing and pose estimation for enhancing infant general movement assessment](https://arxiv.org/abs/2210.08054). The data and annotations are released for research purposes only.
+The infant video dataset collected from Youtube with body parsing annotations, which is used in our Medical Image Analysis 2023 paper [Semi-supervised body parsing and pose estimation for enhancing infant general movement assessment](https://arxiv.org/abs/2210.08054). The data and annotations are released for research purposes only.
 
 <div align=center><img src="example.png" width="787px" height="392px"/></div>
 

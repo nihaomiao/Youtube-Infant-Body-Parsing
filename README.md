@@ -72,12 +72,13 @@ Citing Youtube-Infant-Body-Parsing
 ----
 If you find this dataset useful in your research, please consider citing our paper (collecting anatotations) and Chambers' paper (collecting videos):
 ```
-@article{ni2022semi,
+@article{ni2023semi,
   title={Semi-supervised body parsing and pose estimation for enhancing infant general movement assessment},
-  author={Ni, Haomiao and Xue, Yuan and Ma, Liya and Zhang, Qian and Li, Xiaoye and Huang, Xiaolei},
+  author={Ni, Haomiao and Xue, Yuan and Ma, Liya and Zhang, Qian and Li, Xiaoye and Huang, Sharon X},
   journal={Medical Image Analysis},
+  volume={83},
   pages={102654},
-  year={2022},
+  year={2023},
   publisher={Elsevier}
 }
 

@@ -97,4 +97,4 @@ For any problems with the data and annotations, please feel free to open an issu
 
 Acknowledgement
 -----
-The original Youtube videos are collected by [Chambers et al. (2020)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8011647/).
+The original Youtube videos are collected by [Chambers et al. (2020)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8011647/) and the labels are annotated  through the Amazon Mechanical Turk crowd-sourcing platform. We also specially thank Yifei Xiang from the EE Department of Penn State University for his significant role in developing the annotation tool.

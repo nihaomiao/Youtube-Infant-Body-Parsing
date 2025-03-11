@@ -1,5 +1,5 @@
 # Youtube-Infant-Body-Parsing Video Dataset
-The infant video dataset collected from Youtube with body parsing annotations, which is used in our Medical Image Analysis 2023 paper [Semi-supervised body parsing and pose estimation for enhancing infant general movement assessment](https://arxiv.org/abs/2210.08054). The data and annotations are released for **research purposes** only. If you are interested in our proposed body parsing network, you may refer to our MICCAI'20 [paper](https://arxiv.org/abs/2007.08646) and its [code](https://github.com/nihaomiao/MICCAI20_SiamParseNet) implementation. 
+The infant video dataset collected from Youtube with body parsing annotations, which is used in our Medical Image Analysis 2023 paper [Semi-supervised body parsing and pose estimation for enhancing infant general movement assessment](https://arxiv.org/abs/2210.08054). The data and annotations are released for **research purposes** only. If you are interested in our proposed body parsing network, you may refer to our MICCAI 2020 [paper](https://arxiv.org/abs/2007.08646) and its [code](https://github.com/nihaomiao/MICCAI20_SiamParseNet) implementation. 
 
 <div align=center><img src="example.png" width="787px" height="392px"/></div>
 
